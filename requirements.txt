@@ -1,9 +1,6 @@
-numpy
-gradio
-pandas
-plotly
 streamlit
+pandas
 requests
-streamlit_autorefresh
 pytz
-datetime
+plotly
+streamlit-autorefresh
