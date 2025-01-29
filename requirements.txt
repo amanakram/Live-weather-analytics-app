@@ -5,4 +5,4 @@ plotly
 streamlit
 requests
 streamlit_autorefresh
-datetime
+pytz
