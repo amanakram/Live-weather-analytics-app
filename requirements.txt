@@ -6,5 +6,4 @@ streamlit
 requests
 streamlit_autorefresh
 pytz
-os
 datetime
